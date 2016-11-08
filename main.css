@@ -38,7 +38,6 @@ body, html {
 }
 
 /* ---- Case Study ---- */
-
 .bgimg-5 {
   background-image: url("http://www.designhorse.no/wp-content/uploads/2016/06/designhorse-black-tears-packaging-design-spiced-rum-1-1-2600x1974.jpg");
   min-height: 400px;
@@ -229,7 +228,7 @@ a.cta.hvr-underline-from-center {
 
 /*! -------------- Hover -------------- */
 
-#seeMoreStories {
+#seeMoreStories, #404-text {
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -237,14 +236,18 @@ a.cta.hvr-underline-from-center {
   padding-top: 40px;
 }
 
-.footer-list-item a {
+#404-text {
+  padding-top: 300px;
+}
+
+.footer-list-item a, #404-home {
     text-decoration: none;
     opacity: 0.75;
     color: #111;
     font-weight: 200;
 }
 
-.footer-list li a:hover {
+.footer-list li a, #404-home:hover {
   opacity: 1;
   color: #111;
 }
