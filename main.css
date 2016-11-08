@@ -228,7 +228,7 @@ a.cta.hvr-underline-from-center {
 
 /*! -------------- Hover -------------- */
 
-#seeMoreStories, #404-text {
+#seeMoreStories, #404-p {
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -236,7 +236,7 @@ a.cta.hvr-underline-from-center {
   padding-top: 40px;
 }
 
-#404-text {
+#404-p {
   padding-top: 300px;
 }
 
