@@ -102,11 +102,11 @@ body, html {
 }
 
 .cta, h2.border {
-  color: #d6d6d6;
+  color: #efefef;
   line-height: 2.6;
   max-width: 375px;
   margin: 0 auto;
-  opacity: .8;
+  opacity: .9;
 }
 
 .cta {
@@ -211,7 +211,6 @@ a.cta.hvr-underline-from-center {
   }
   .cta, h2.border, h2.borderless {
     font-size: 25px;
-    opacity: .8;
   }
   .cta, h2.border {
     max-width: 460px;
