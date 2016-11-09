@@ -22,18 +22,23 @@ body, html {
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
 }
 
-.bgimg-1, .bgimg-4 {
-  background-image: url("https://images.unsplash.com/16/unsplash_5263605581e32_1.JPG?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=5c467b5ab86555a0a2bc0fbc803015d0");
+.bgimg-1 {
+  background-image: url("https://www.dhmedia.co/images/bgimg-1.jpg");
   min-height: 400px;
 }
 
 .bgimg-2 {
-  background-image: url("https://images.unsplash.com/photo-1459245330819-1b6d75fbaa35?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=57f1d1fea88a95a16ab28ae9e302b306");
+  background-image: url("https://www.dhmedia.co/images/bgimg-2.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("https://images.unsplash.com/uploads/1412191686520a755bf47/e30161f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=c493aa8dba0b37bb4a28a9416b036812");
+  background-image: url("https://www.dhmedia.co/images/bgimg-3.jpg");
+  min-height: 400px;
+}
+
+.bgimg-4 {
+  background-image: url("https://www.dhmedia.co/images/bgimg-4.jpg");
   min-height: 400px;
 }
 
