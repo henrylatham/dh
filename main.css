@@ -155,6 +155,11 @@ a {
 }
 
 #logo-black.png {
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 50px;
+    opacity: .6;
 }
 
 .what-we-do, .about, .contact,.team-member {
