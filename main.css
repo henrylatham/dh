@@ -113,12 +113,12 @@ body, html {
   background-color: #00E08A;
 }
 
-/*
-.caption-cta: hover {
-  opacity: 1;
+.cta:hover {
+  color: #ffffff;
   transition: all 0.3s ease;
 }
-*/
+
+
 
 h2.border {
   background-color: #111;
