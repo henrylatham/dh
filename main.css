@@ -23,59 +23,59 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url("https://www.dhmedia.co/images/bgimg-1.jpg");
+  background-image: url("/images/bgimg-1.jpg");
   min-height: 400px;
 }
 
 .bgimg-2 {
-  background-image: url("https://www.dhmedia.co/images/bgimg-2.jpg");
+  background-image: url("/images/bgimg-2.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("https://www.dhmedia.co/images/bgimg-3.jpg");
+  background-image: url("/images/bgimg-3.jpg");
   min-height: 400px;
 }
 
 .bgimg-4 {
-  background-image: url("https://www.dhmedia.co/images/bgimg-4.jpg");
+  background-image: url("/images/bgimg-4.jpg");
   min-height: 400px;
 }
 
 /* ---- Case Study ---- */
 .bgimg-5 {
-  background-image: url("http://www.designhorse.no/wp-content/uploads/2016/06/designhorse-black-tears-packaging-design-spiced-rum-1-1-2600x1974.jpg");
+  background-image: url("/images/bgimg-5.jpg");
   min-height: 400px;
 }
 
 
 .bgimg-6 {
-  background-image: url("https://images.unsplash.com/photo-1460566322554-abfbd6525101?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=b785fbf4db467a75fcca5cab15f9a3ca");
+  background-image: url("/images/bgimg-6.jpg");
   min-height: 400px;
 }
 
 
 .bgimg-7 {
-  background-image: url("https://images.unsplash.com/photo-1460565861774-8d21f6bc4502?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=62ee8bb874e79729c231f0345d1bd389");
+  background-image: url("/images/bgimg-7.jpg");
   min-height: 400px;
 }
 
 /* ---- Team ---- */
 
 .bgimg-8 {
-  background-image: url("http://previews.123rf.com/images/kzenon/kzenon1205/kzenon120500082/13452872-Business-businesspeople-have-team-meeting-in-an-office-with-laptop-it-is-a-very-good-team-Stock-Photo.jpg");
+  background-image: url("/images/bgimg-8.jpg");
   min-height: 400px;
 }
 
 
 .bgimg-9 {
-  background-image: url("http://stockfresh.com/files/p/pressmaster/m/76/103393_stock-photo-successful-team.jpg");
+  background-image: url("/images/bgimg-9.jpg");
   min-height: 400px;
 }
 
 
 .bgimg-10 {
-  background-image: url("http://stockfresh.com/files/k/kurhan/m/14/1508172_stock-photo-happy-business-people-team.jpg");
+  background-image: url("/images/bgimg-10.jpg");
   min-height: 400px;
 }
 
