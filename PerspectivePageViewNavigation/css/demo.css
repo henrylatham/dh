@@ -174,6 +174,11 @@ button:active {
 .menuIcon {
 	bottom: 0;
     	position: fixed;
+	opacity: .9;
+}
+
+.menuIcon: hover {
+	opacity: 1;
 }
 
 
