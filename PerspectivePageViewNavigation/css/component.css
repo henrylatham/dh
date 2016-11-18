@@ -254,7 +254,7 @@ html, body {
 
 /* Effect Move Left */
 .effect-moveleft {
-	background: #ffffff;
+	background: #00E08A;
 }
 
 .effect-moveleft .container {
@@ -278,7 +278,7 @@ html, body {
 }
 
 .effect-moveleft .outer-nav a {
-	color: #00E08A;
+	color: #fff;
 	opacity: 0;
 	-webkit-transform: translateX(0px) translateZ(-1000px);
 	transform: translateX(0px) translateZ(-1000px);
@@ -294,7 +294,7 @@ html, body {
 }
 
 .effect-moveleft .outer-nav a:hover {
-	color: #01a063;
+	color: #eaeaea;
 }
 
 .effect-moveleft.animate .outer-nav a {
